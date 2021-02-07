@@ -1,5 +1,5 @@
 # week3
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/98a63537bdbd339702cf)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/4290db69aa5e7cfb8104)
 
 
 Please note that for some reason first run always (most of the time) take more than 200ms 
