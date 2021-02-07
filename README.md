@@ -8,7 +8,7 @@ Please note that for some reason first run always (most of the time) take more t
 - 🔴Create an ECHO server (from lecture)
 - 🔴Setup Heroku to auto deploy your application from your REPO CSC3916_HW1
 - 🔴Create a PostMan request that posts a body value to your API
-- 🔴 Create an environment variable $echo_body for the body of the request
+- 🔴 Create an environment variable $echo_body(set it to body value) for the body of the request
 
 – Asserts (test) must include:
 
